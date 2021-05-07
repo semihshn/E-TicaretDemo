@@ -1,5 +1,4 @@
 <ul>
-<li>SOLID'e uygun şekilde dışarıdan service implementasyonu için Addapter Pattern kullanımı :heavy_check_mark:</li>
-<li>E-mail kontrolü için REGEX kullanımı öğrenildi ve pratik yapıldı</li>
+<li>SOLID'e uygun ÅŸekilde dÄ±ÅŸarÄ±dan service implementasyonu iÃ§in Addapter Pattern kullanÄ±mÄ± :heavy_check_mark:</li>
+<li>E-mail kontrolÃ¼ iÃ§in REGEX kullanÄ±mÄ± Ã¶ÄŸrenildi ve pratik yapÄ±ldÄ± :heavy_check_mark:</li>
 </ul>
-
